@@ -84,8 +84,6 @@ After you're finished please remove all the comments and instructions!
   </ul>
 </details>
 
-<details>
-
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
