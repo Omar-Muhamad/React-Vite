@@ -7,9 +7,10 @@
     "start": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "test": "vitest"
+    "test": "jest"
   },
   "dependencies": {
+    "jest": "^29.4.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
